@@ -1,0 +1,167 @@
+{
+  "id": "b4cbc24c-fcac-47cb-8302-9967bfbf6f02",
+  "type": "Project",
+  "name": "diagramme de classe",
+  "description": "New project",
+  "owner": "User",
+  "createdAt": "2026-03-03T16:41:23.030Z",
+  "currentDiagramType": "ClassDiagram",
+  "diagrams": {
+    "ClassDiagram": {
+      "id": "05d321d4-7eb2-4a2f-a697-058590b24477",
+      "title": "Class Diagram",
+      "model": {
+        "version": "3.0.0",
+        "type": "ClassDiagram",
+        "size": {
+          "width": 0,
+          "height": 0
+        },
+        "interactive": {
+          "elements": {},
+          "relationships": {}
+        },
+        "elements": {},
+        "relationships": {},
+        "assessments": {}
+      },
+      "lastUpdate": "2026-03-03T16:41:41.317Z"
+    },
+    "ObjectDiagram": {
+      "id": "8eb114a6-7ea9-4f94-86e4-e57f0b171296",
+      "title": "Object Diagram",
+      "model": {
+        "version": "3.0.0",
+        "type": "ObjectDiagram",
+        "size": {
+          "width": 1400,
+          "height": 740
+        },
+        "elements": {},
+        "relationships": {},
+        "interactive": {
+          "elements": {},
+          "relationships": {}
+        },
+        "assessments": {}
+      },
+      "lastUpdate": "2026-03-03T16:41:23.030Z"
+    },
+    "StateMachineDiagram": {
+      "id": "a57e302d-6a8b-4135-942e-d6af1561265e",
+      "title": "State Machine Diagram",
+      "model": {
+        "version": "3.0.0",
+        "type": "StateMachineDiagram",
+        "size": {
+          "width": 1400,
+          "height": 740
+        },
+        "elements": {},
+        "relationships": {},
+        "interactive": {
+          "elements": {},
+          "relationships": {}
+        },
+        "assessments": {}
+      },
+      "lastUpdate": "2026-03-03T16:41:23.030Z"
+    },
+    "AgentDiagram": {
+      "id": "fc65f814-c379-47b6-9738-9cf988eb07c5",
+      "title": "Agent Diagram",
+      "model": {
+        "version": "3.0.0",
+        "type": "AgentDiagram",
+        "size": {
+          "width": 1400,
+          "height": 740
+        },
+        "elements": {},
+        "relationships": {},
+        "interactive": {
+          "elements": {},
+          "relationships": {}
+        },
+        "assessments": {}
+      },
+      "lastUpdate": "2026-03-03T16:41:23.030Z"
+    },
+    "UserDiagram": {
+      "id": "12e3adc0-1fdd-4b32-bb69-49a00191fb19",
+      "title": "User Diagram",
+      "model": {
+        "version": "3.0.0",
+        "type": "UserDiagram",
+        "size": {
+          "width": 1400,
+          "height": 740
+        },
+        "elements": {},
+        "relationships": {},
+        "interactive": {
+          "elements": {},
+          "relationships": {}
+        },
+        "assessments": {}
+      },
+      "lastUpdate": "2026-03-03T16:41:23.030Z"
+    },
+    "GUINoCodeDiagram": {
+      "id": "534b1acf-7c1b-444b-a8dc-5896fe024c31",
+      "title": "GUI Diagram",
+      "model": {
+        "pages": [
+          {
+            "name": "Home",
+            "frames": [
+              {
+                "component": {
+                  "type": "wrapper",
+                  "stylable": [
+                    "background",
+                    "background-color",
+                    "background-image",
+                    "background-repeat",
+                    "background-attachment",
+                    "background-position",
+                    "background-size"
+                  ],
+                  "components": [],
+                  "head": {
+                    "type": "head"
+                  },
+                  "docEl": {
+                    "tagName": "html"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "styles": [],
+        "assets": [],
+        "symbols": [],
+        "version": "0.21.13"
+      },
+      "lastUpdate": "2026-03-03T16:41:23.030Z"
+    },
+    "QuantumCircuitDiagram": {
+      "id": "faacab9e-27d0-4d49-9409-87a107481326",
+      "title": "Quantum Circuit",
+      "model": {
+        "cols": [],
+        "gates": [],
+        "gateMetadata": {},
+        "initialStates": [],
+        "version": "1.0.0"
+      },
+      "lastUpdate": "2026-03-03T16:41:23.030Z"
+    }
+  },
+  "settings": {
+    "defaultDiagramType": "ClassDiagram",
+    "autoSave": true,
+    "collaborationEnabled": false
+  }
+}
